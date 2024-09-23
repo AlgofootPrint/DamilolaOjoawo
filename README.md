@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DamilolaOjoawo
+- 👋 Hi, I’m Damilola Ojoawo
 - 👀 I’m interested in Data Analysis Jobs
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Projects
